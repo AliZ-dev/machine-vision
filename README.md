@@ -1,1 +1,3 @@
 # machine-vision
+
+Some cool jobs are going to be added soon...
